@@ -3,3 +3,5 @@ venv\Scripts\activate
 
 # Limpa o console
 pip install replit
+
+# pip install pillow
